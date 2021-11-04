@@ -5,7 +5,7 @@
  -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Shannxi-xi'an
+- 🔭 I’m currently working on Shaanxi-xi'an
 - 🌱 I’m currently learning `FileCoin`
 - 📫 How to reach me: `rickiey@qq.com`
 - 😄 Skills: `Go,Rust,Linux,FileCoin,MySQL,Redis,Clickhouse,NATS`
